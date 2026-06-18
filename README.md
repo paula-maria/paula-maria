@@ -8,8 +8,12 @@ Bolsista de TI @ PET Saúde Digital no Meio do Mundo · UNIFAP
  React · Next.js · Tailwind · PHP/Laravel
 
  Projetos desenvolvidos para o Estado do Amapá:
+ 
    ↳ Órbita — ferramenta interna de gestão de tarefas de um setor TI
+ 
    ↳ Portal Governo Digital do Amapá
+   
    ↳ Plataforma de inscrição Amapá Jovem
+   
    ↳ RH do SIAC
   
