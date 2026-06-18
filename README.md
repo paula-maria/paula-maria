@@ -1,6 +1,13 @@
-Paula Maria aqui👋🏻 apenas criando repositórios para projetos acadêmicos e profissionais
+ Graduanda em Ciência da Computação @ UNIFAP — Macapá, Amapá
+Estagiária de TI · Desenvolvedora Fullstack (foco em Frontend) @ PRODAP
+Bolsista de TI @ PET Saúde Digital no Meio do Mundo · UNIFAP
 
-<!---
-paula-maria/paula-maria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Desenvolvendo sistemas web para o setor público e saúde
+ React · Next.js · Tailwind · PHP/Laravel
+
+ Projetos desenvolvidos para o Estado do Amapá:
+   ↳ Órbita — ferramenta interna de gestão de tarefas de um setor TI
+   ↳ Portal Governo Digital do Amapá
+   ↳ Plataforma de inscrição Amapá Jovem
+   ↳ RH do SIAC
+  
